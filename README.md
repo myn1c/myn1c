@@ -1,4 +1,7 @@
 ## Привет! Я давно увлекаюсь программированием. 
+
+[![GitHub followers](https://img.shields.io/github/followers/myn1c?style=social)](https://github.com/myn1c)
+
 Это мой новый профиль на гитхабе. 
 
 Мои любимые направления - это бэкенд и создание игр.
